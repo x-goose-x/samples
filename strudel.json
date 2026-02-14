@@ -1,3 +1,3 @@
-{"_base": "https://raw.githubusercontent.com/x-goose-x/samples/main",
- "field": ["/fieldrecordings/rosemontmetro.ogg"],
- "emoguitar":["/guitar/punk-emo/TRKTRN_CDLKBN_138_Electric_Guitar_Rhythm_Cavity_Clean_Dry_Cmaj.wav"]}
+{"_base": "https://raw.githubusercontent.com/x-goose-x/samples/main/",
+ "field": ["fieldrecordings/rosemontmetro.ogg"],
+ "emoguitar":["guitar/punk-emo/TRKTRN_CDLKBN_138_Electric_Guitar_Rhythm_Cavity_Clean_Dry_Cmaj.wav"]}
