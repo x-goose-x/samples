@@ -1,4 +1,5 @@
 {"_base": "https://raw.githubusercontent.com/x-goose-x/samples/main/",
  "field": ["fieldrecordings/rosemontmetro.ogg"],
  "vocals": ["vocals/DS_PMB_150_vocal_hook_female_loop_feel_it_chorus_dry.wav", "vocals/ELIMINATE_MDSTP_vox_phrase_boxyourheadoff.wav", "vocals/FF_VV_dialogue_white_male_what.wav", "vocals/MYLK_vocal_fire_dry.wav", "vocals/MYLK_vocal_yo_dry.wav", "vocals/SLK_vocal_burn_it_D.wav"],
+ "snares": ["snares/TS_HMD_snare_push.wav", "snares/TS_PP_snare_hurts_so_good.wav"],
  "emoguitar":["guitar/punk-emo/TRKTRN_CDLKBN_138_Electric_Guitar_Rhythm_Cavity_Clean_Dry_Cmaj.wav"]}
