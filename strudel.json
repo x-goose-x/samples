@@ -4,6 +4,6 @@
  "snares": ["snares/TS_HMD_snare_push.wav", "snares/TS_PP_snare_hurts_so_good.wav"],
  "emoguitar":["guitar/punk-emo/TRKTRN_CDLKBN_138_Electric_Guitar_Rhythm_Cavity_Clean_Dry_Cmaj.wav"],
  "bassguitar": ["guitar/shs_dmt_tape_bass_guitar_one_shot_Lena_A.wav"],
- "bass": ["bass/SHADOW_UKD_bass_oneshot_Deep_Plucky_E.wav"],
+ "bass": {"e3":"bass/SHADOW_UKD_bass_oneshot_Deep_Plucky_E.wav"},
  "smoke": "smokepad.mp3"
 }
